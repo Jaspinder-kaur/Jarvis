@@ -1,1 +1,7 @@
 # Jarvis
+
+# About
+
+# Disclaimer
+
+# Bugs
